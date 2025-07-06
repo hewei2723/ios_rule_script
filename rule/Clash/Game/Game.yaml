@@ -17,6 +17,8 @@ payload:
   - DOMAIN,logincdn.msauth.net
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battle.com
+  - DOMAIN-SUFFIX,battleye.b-cdn.net
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,battlenet.com
